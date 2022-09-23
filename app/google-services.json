@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827959975050",
+    "project_id": "cleanarchitectureshoppingapp",
+    "storage_bucket": "cleanarchitectureshoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827959975050:android:6e86c3b12c0dd9aa5fe173",
+        "android_client_info": {
+          "package_name": "com.android.cleanarchitectureshoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827959975050-69fpgnfr9ej394993lkmlo0u2cmg1a4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUyYU1Pdb2HpOqNFOv-y5OAASk-HmATpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827959975050-69fpgnfr9ej394993lkmlo0u2cmg1a4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
